@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CustomerRecordMonth /> should match snapshot 1`] = `
+<DocumentFragment>
+  <h1>
+    May:
+  </h1>
+  <table
+    style="width: 100%; text-align: center; margin-bottom: 2rem;"
+  >
+    <thead>
+      <tr>
+        <th>
+          BuyerId
+        </th>
+        <th>
+          TransitionNumber
+        </th>
+        <th>
+          Name
+        </th>
+        <th>
+          PurchaseItem
+        </th>
+        <th>
+          Price
+        </th>
+        <th>
+          RewardPoints
+        </th>
+        <th>
+          Date
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          test1User
+        </td>
+        <td>
+          c55-ae17-a9f22f2100a3
+        </td>
+        <td />
+        <td />
+        <td />
+        <td>
+          30
+        </td>
+        <td>
+          May 05 2022
+        </td>
+      </tr>
+      <tr>
+        <td>
+          test1User
+        </td>
+        <td>
+          e0903f84
+        </td>
+        <td />
+        <td />
+        <td />
+        <td>
+          110
+        </td>
+        <td>
+          May 15 2022
+        </td>
+      </tr>
+      <tr>
+        <th
+          colspan="5"
+          style="text-align: right;"
+        >
+          Total Points:
+        </th>
+        <td>
+          140
+        </td>
+        <td />
+      </tr>
+    </tbody>
+  </table>
+  <table
+    style="width: 100%; text-align: center; margin-bottom: 2rem;"
+  >
+    <thead>
+      <tr>
+        <th>
+          BuyerId
+        </th>
+        <th>
+          TransitionNumber
+        </th>
+        <th>
+          Name
+        </th>
+        <th>
+          PurchaseItem
+        </th>
+        <th>
+          Price
+        </th>
+        <th>
+          RewardPoints
+        </th>
+        <th>
+          Date
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          test2User
+        </td>
+        <td>
+          bd6b53eb-8d5a-4c5
+        </td>
+        <td />
+        <td />
+        <td />
+        <td>
+          30
+        </td>
+        <td>
+          May 05 2022
+        </td>
+      </tr>
+      <tr>
+        <td>
+          test2User
+        </td>
+        <td>
+          e0903f84-2611-45e0-
+        </td>
+        <td />
+        <td />
+        <td />
+        <td>
+          110
+        </td>
+        <td>
+          May 15 2022
+        </td>
+      </tr>
+      <tr>
+        <th
+          colspan="5"
+          style="text-align: right;"
+        >
+          Total Points:
+        </th>
+        <td>
+          140
+        </td>
+        <td />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TotalRewardPointsCell /> should match snapshot 1`] = `
+<DocumentFragment>
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          buyer1
+        </th>
+        <td>
+          test1
+        </td>
+        <td>
+          165
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TotalRewardPointsThreeMonths /> should match snapshot 1`] = `
+<DocumentFragment>
+  <h3>
+    Total Three Months:
+  </h3>
+  <table
+    style="width: 100%; text-align: center;"
+  >
+    <thead>
+      <tr>
+        <th>
+          BuyerId
+        </th>
+        <th>
+          Name
+        </th>
+        <th>
+          Total Points
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          tes1
+        </th>
+        <td />
+        <td>
+          1
+        </td>
+      </tr>
+      <tr>
+        <th>
+          tes3
+        </th>
+        <td />
+        <td>
+          7
+        </td>
+      </tr>
+      <tr>
+        <th>
+          tes2
+        </th>
+        <td />
+        <td>
+          7
+        </td>
+      </tr>
+      <tr>
+        <th>
+          test3
+        </th>
+        <td />
+        <td>
+          13
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

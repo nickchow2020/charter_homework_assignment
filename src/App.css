@@ -1,0 +1,12 @@
+table, th, td {
+  border:1px solid black;
+}
+
+h3{
+  margin: 0;
+  padding: 0;
+}
+
+.customerTable{
+  margin-bottom: 2rem;
+}
